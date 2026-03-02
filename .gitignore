@@ -1,0 +1,6 @@
+com_vision_venv/
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.keras
